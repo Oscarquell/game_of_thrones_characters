@@ -1,0 +1,13 @@
+.title {
+  text-align: center;
+  font-weight: 600;
+  background-size: 250px;
+  background-repeat: repeat;
+  -webkit-background-clip: text;
+  background-clip: text;
+  text-shadow:
+      2px 2px 4px rgba(179, 147, 211, 0.1),
+      3px 4px 4px rgba(179, 147, 211, 0.15),
+      4px 6px 4px rgba(179, 147, 211, 0.2),
+      5px 8px 4px rgba(179, 147, 211, 0.25);
+}
